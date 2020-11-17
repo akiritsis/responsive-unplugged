@@ -507,7 +507,7 @@ input[type=button] {
 
 @media only screen and (min-width: 768px) {
   /* TABLET STYLES HERE */
-}
+
 
 /* GENERAL STYLES */
 
@@ -698,11 +698,11 @@ footer .copyright {
     font-size: .875em;
     line-height: 1.125;
 }
-
+}
 
 @media only screen and (min-width:1200px) {
   /*Desktop styles here*/
-}
+
 
 header {
   padding: 15px 0;
@@ -797,6 +797,7 @@ header {
       line-height: 1;
   }
 }
+
 
 
 
